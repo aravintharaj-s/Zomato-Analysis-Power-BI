@@ -5,9 +5,12 @@ Power BI is an interactive data visualization software product with a primary fo
 
 >Pre-requisite: Power BI must be installed to view the file.
 
+<hr>
 
 All countries
+<br>
 ![All Country](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/All-countries.png)
+<hr>
 
 India Restaurants
 ![Indian Restaurants](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/India-restaurants.png)
