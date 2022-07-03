@@ -6,7 +6,7 @@ Power BI is an interactive data visualization tool that helps transform unrelate
 >Pre-requisite: Power BI must be installed to view the file.
 
 
-## Screenshots.
+## Screenshots
 
 
 #### The below snap represents the restaurants spread across different countries in partnership with Zomato.
