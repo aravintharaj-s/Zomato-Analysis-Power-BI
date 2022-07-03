@@ -5,14 +5,9 @@ Power BI is an interactive data visualization software product with a primary fo
 
 >Pre-requisite: Power BI must be installed to view the file.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1XCIVr0KdnrkZ_Gc2HxirkDlkR6cd9Cpt/view?usp=sharing">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1LhxBsibe4wnlXFoYYDIB5BIg1VQive0y/view?usp=sharing">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
 All countries
-![All Country](https://drive.google.com/file/d/1XCIVr0KdnrkZ_Gc2HxirkDlkR6cd9Cpt/view?usp=sharing)
+![All Country](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/All-countries.png)
 
 India Restaurants
 ![Indian Restaurants](https://drive.google.com/file/d/1LhxBsibe4wnlXFoYYDIB5BIg1VQive0y/view?usp=sharing)
