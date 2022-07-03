@@ -10,12 +10,12 @@ All countries
 ![All Country](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/All-countries.png)
 
 India Restaurants
-![Indian Restaurants](https://drive.google.com/file/d/1LhxBsibe4wnlXFoYYDIB5BIg1VQive0y/view?usp=sharing)
+![Indian Restaurants](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/India-restaurants.png)
 
 Delhi Top 10 Restaurants
-![Top 10 Delhi](https://drive.google.com/file/d/13htiR4z20dXRKRqAMPsC9FH-eFpTNW0Q/view?usp=sharing)
+![Top 10 Delhi](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Delhi-Restaurants.png)
 
 Location specific
-![Map](https://drive.google.com/file/d/15_hhDpC6kPubJcVmOHjIApoKkZl75_if/view?usp=sharing)
+![Map](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Location-specific.png)
 
 
