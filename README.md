@@ -8,7 +8,6 @@ Power BI is an interactive data visualization software product with a primary fo
 
 
 #### All countries
-<br>
 ![All Country](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/All-countries.png)
 
 
