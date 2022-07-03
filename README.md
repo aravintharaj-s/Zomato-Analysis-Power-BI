@@ -15,9 +15,9 @@ Power BI is an interactive data visualization software product with a primary fo
 ![Indian Restaurants](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/India-restaurants.png)
 
 #### Delhi Top 10 Restaurants
-![Top 10 Delhi](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Delhi-Restaurants.png)
+![Top 10 Delhi](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Delhi.png)
 
 #### Location specific
-![Map](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Location-specific.png)
+![Map](https://github.com/aravintharaj-s/Zomato-Analysis-Power-BI/blob/main/img/Location.png)
 
 
