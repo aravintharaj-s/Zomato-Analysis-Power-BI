@@ -5,7 +5,6 @@ Power BI is an interactive data visualization tool that helps transform unrelate
 
 >Pre-requisite: Power BI must be installed to view the file.
 
-<hr>
 
 ## Screenshots.
 
