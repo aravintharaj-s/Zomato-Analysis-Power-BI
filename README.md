@@ -1,6 +1,6 @@
 ## Zomato-Analysis-Power-BI
 
-Power BI is an interactive data visualization software product with a primary focus on business intelligence.We have taken zomato dataset and made a visual representation of few business logics such as top 10 restaurant name,Price Range,Avg Cost for a selected country,city and also the location of the same.
+Power BI is an interactive data visualization tool that helps transform unrelated sources of data into interactive insights. We have considered dataset pertaining to Zomato, obtained certain valuable insights and designed a visually immersive user interface .
 
 
 >Pre-requisite: Power BI must be installed to view the file.
